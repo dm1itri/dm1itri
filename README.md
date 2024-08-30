@@ -10,7 +10,7 @@ Software Engineer 🚀
 
 - 🚢 **Containers and etc**: `Docker`
 
-- 📊 **Algs**: [leetcode](https://leetcode.com/u/s0vunia)
+- 📊 **Algs**: [leetcode](https://leetcode.com/u/)
 
 - 📚 **Other**: `GitLab CI/CD`, `REST API`
 
@@ -22,4 +22,4 @@ Software Engineer 🚀
 ## 📨 Contacts
 
 - **Telegram** (preferred): [@WhenDeadline](https://t.me/WhenDeadline)
-- - **Email**: [dimma-18@yandex.ru](dimma-18@yandex.ru)
+- **Email**: `dimma-18@yandex.ru`
