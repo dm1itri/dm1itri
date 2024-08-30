@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Dmitriy (@dm1itri)
 
-<!--
-**dm1itri/dm1itri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer 🚀
 
-Here are some ideas to get you started:
+## 🦾 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Backend**: `Python`
+
+- 💾 **Databases/Brokers**: `PostgreSQL`, `SQLite`,  `MySQL`,  `Kafka`
+
+- 🚢 **Containers and etc**: `Docker`
+
+- 📊 **Algs**: [leetcode](https://leetcode.com/u/s0vunia)
+
+- 📚 **Other**: `GitLab CI/CD`, `REST API`
+
+## 🎓 Education
+
+- 🏫 **School**: `Gymnasium No. 271 of St. Petersburg (2013-2024)`
+- 🏨 **University**: `ITMO University (2024-2028)`
+
+## 📨 Contacts
+
+- **Telegram** (preferred): [@WhenDeadline](https://t.me/WhenDeadline)
+- - **Email**: [dimma-18@yandex.ru](dimma-18@yandex.ru)
