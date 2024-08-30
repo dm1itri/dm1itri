@@ -17,7 +17,7 @@ Software Engineer 🚀
 ## 🎓 Education
 
 - 🏫 **School**: `Gymnasium No. 271 of St. Petersburg (2013-2024)`
-- 🏨 **University**: `ITMO University (2024-2028)`
+- 🏨 **University**: `ITMO University Software Engineering (2024-2028)`
 
 ## 📨 Contacts
 
