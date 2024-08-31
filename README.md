@@ -12,7 +12,7 @@ Software Engineer 🚀
 
 - 📊 **Algs**: [leetcode](https://leetcode.com/u/)
 
-- 📚 **Other**: `GitLab CI/CD`, `REST API`
+- 📚 **Other**: `GitLab CI/CD`, `REST API`, `Asyncio`
 
 ## 🎓 Education
 
