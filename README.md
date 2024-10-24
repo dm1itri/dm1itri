@@ -4,15 +4,15 @@ Software Engineer 🚀
 
 ## 🦾 Skills
 
-- 🛠 **Backend**: `Python`
+- 🛠 **Backend**: `Python`, `C++`
 
-- 💾 **Databases/Brokers**: `PostgreSQL`, `SQLite`,  `MySQL`,  `Kafka`
+- 💾 **Databases/Brokers**: `PostgreSQL`, `SQLite`, `Kafka`
 
 - 🚢 **Containers and etc**: `Docker`
 
-- 📊 **Algs**: [leetcode](https://leetcode.com/u/)
+- 📊 **Algs**: [sort-me](https://sort-me.org/profile/5082)
 
-- 📚 **Other**: `GitLab CI/CD`, `REST API`, `Asyncio`
+- 📚 **Other**: `GitLab CI/CD`, `REST API`, `Asyncio`, `Django`, `FastApi`
 
 ## 🎓 Education
 
