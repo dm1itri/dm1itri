@@ -10,7 +10,7 @@ Software Engineer 🚀
 
 - 🚢 **Containers and etc**: `Docker`
 
-- 📊 **Algs**: [sort-me](https://sort-me.org/profile/5082)
+- 📊 **Algs**: [sort-me](https://sort-me.org/profile/5082) [leetcode](https://leetcode.com/u/WhenDeadline)
 
 - 📚 **Other**: `GitLab CI/CD`, `REST API`, `Asyncio`, `Django`, `FastApi`
 
