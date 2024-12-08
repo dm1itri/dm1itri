@@ -26,4 +26,4 @@ Software Engineer 🚀
 
 ## 📈 Stats
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dm1itri&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dm1itri&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
