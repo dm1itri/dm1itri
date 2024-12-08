@@ -12,7 +12,7 @@ Software Engineer 🚀
 
 - 📊 **Algs**: [sort-me](https://sort-me.org/profile/5082) [leetcode](https://leetcode.com/u/WhenDeadline)
 
-- 📚 **Other**: `GitLab CI/CD`, `REST API`, `Asyncio`, `Django`, `FastApi`
+- 📚 **Other**: `CI/CD`, `REST API`, `Asyncio`, `Django`, `FastApi`
 
 ## 🎓 Education
 
