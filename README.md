@@ -6,7 +6,7 @@ Software Engineer 🚀
 
 - 🛠 **Backend**: `Go`, `Python`, `C++`, 
 
-- 💾 **Databases/Brokers**: `MySQL``PostgreSQL`, `SQLite`, `Kafka`
+- 💾 **Databases/Brokers**: `MySQL`, `PostgreSQL`, `SQLite`, `Kafka`
 
 - 🚢 **Containers and etc**: `Docker`
 
