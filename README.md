@@ -4,9 +4,9 @@ Software Engineer 🚀
 
 ## 🦾 Skills
 
-- 🛠 **Backend**: `Python`, `C++`, `Go`
+- 🛠 **Backend**: `Go`, `Python`, `C++`, 
 
-- 💾 **Databases/Brokers**: `PostgreSQL`, `SQLite`, `Kafka`
+- 💾 **Databases/Brokers**: `MySQL``PostgreSQL`, `SQLite`, `Kafka`
 
 - 🚢 **Containers and etc**: `Docker`
 
